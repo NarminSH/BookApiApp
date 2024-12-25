@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj": {}
+    "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj": {
+    "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj",
+        "projectUniqueName": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj",
         "projectName": "Book.Core",
-        "projectPath": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj",
-        "packagesPath": "C:\\Users\\Narmin Shivaxanova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\obj\\",
+        "projectPath": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj",
+        "packagesPath": "C:\\Users\\narmin.shivakhanova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Narmin Shivaxanova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\narmin.shivakhanova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

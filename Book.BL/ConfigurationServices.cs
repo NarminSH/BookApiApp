@@ -1,4 +1,6 @@
-﻿using Book.BL.Services.Abstractions;
+﻿using Book.BL.ExternalServices.Implentations;
+using Book.BL.ExternalServices.Interfaces;
+using Book.BL.Services.Abstractions;
 using Book.BL.Services.Implementations;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -16,6 +18,7 @@ namespace Book.BL
             services.AddScoped<IBookService, BookService>();
             services.AddScoped<IAuthorService, AuthorService>();
             services.AddScoped<IAuthService, AuthService>();
+            services.AddScoped<IJwtTokenService, JwtTokenService>();
         }
     }
 }

@@ -10,5 +10,6 @@ namespace Book.BL.Services.Abstractions
     public interface IAuthService
     {
         Task<bool> RegisterAsync(AppUserCreateDto entityCreateDto);
+        Task<string> LoginAsync(AppUserLoginDto entityLoginDto);
     }
 }

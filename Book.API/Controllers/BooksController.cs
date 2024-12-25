@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Book.BL.DTOs.BookDtos;
 using Book.BL.Exceptions.CommonExceptions;
 using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Book.API.Controllers
 {
@@ -20,6 +21,7 @@ namespace Book.API.Controllers
             _bookService = book;
         }
         [HttpGet]
+        [Authorize]
         public async Task<ICollection<Entities.Book>> GetAll()
         {
             return await _bookService.GetAllAsync();

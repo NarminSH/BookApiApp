@@ -9,9 +9,12 @@ using Book.Data.Repositories.Abstractions;
 using Book.Data.Repositories.Implementations;
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using System.Reflection;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -36,6 +39,26 @@ builder.Services.AddAutoMapper(typeof(BookProfile));
 builder.Services.AddValidatorsFromAssembly(typeof(BookCreateDtoValidation).Assembly);
 builder.Services.AddFluentValidationAutoValidation().AddFluentValidationClientsideAdapters();
 builder.Services.AddControllers();
+builder.Services.AddAuthentication(cfg => {
+    cfg.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    cfg.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+    cfg.DefaultScheme = JwtBearerDefaults.AuthenticationScheme; 
+}).AddJwtBearer(x => {
+
+    x.TokenValidationParameters = new TokenValidationParameters
+    {
+        
+        IssuerSigningKey = new SymmetricSecurityKey(
+            Encoding.UTF8
+            .GetBytes(builder.Configuration["Jwt:SecretKey"])
+        ),
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateIssuerSigningKey = true,
+        ValidAudience = builder.Configuration["Jwt:Audience"],
+        ValidIssuer = builder.Configuration["Jwt:Issuer"]
+    };
+});
 
 //old version
 //builder.Services.AddControllers().AddFluentValidation(opt =>

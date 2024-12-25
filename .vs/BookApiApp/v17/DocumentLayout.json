@@ -1,178 +1,194 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\",
+  "WorkspaceRootPath": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|solutionrelative:book.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|solutionrelative:book.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|solutionrelative:book.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\profiles\\appuserprofiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\profiles\\appuserprofiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\profiles\\authorprofiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\profiles\\authorprofiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\dtos\\authordtos\\authorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\dtos\\authordtos\\authorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|solutionrelative:book.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220114201_addAppUserLastNamechanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Book.Data\\Migrations\\20241220114201_addAppUserLastNamechanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\dal\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\dal\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220113934_addAppUserConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Book.Data\\Migrations\\20241220113934_addAppUserConfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\dal\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\dal\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220113732_addAppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Book.Data\\Migrations\\20241220113732_addAppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|solutionrelative:book.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\book.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\book.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\externalservices\\implentations\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\externalservices\\implentations\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|solutionrelative:book.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|solutionrelative:book.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|solutionrelative:book.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\services\\abstractions\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\services\\abstractions\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|solutionrelative:book.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.api\\book.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|solutionrelative:book.api\\book.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|solutionrelative:book.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\profiles\\bookprofiles\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\externalservices\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\externalservices\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\dtos\\appuserdtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\dtos\\appuserdtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\profiles\\appuserprofiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\profiles\\appuserprofiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\profiles\\authorprofiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\profiles\\authorprofiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\dtos\\authordtos\\authorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\dtos\\authordtos\\authorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|solutionrelative:book.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\dal\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\dal\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\dal\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\dal\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\book.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\book.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|solutionrelative:book.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\services\\abstractions\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\services\\abstractions\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\profiles\\bookprofiles\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\profiles\\bookprofiles\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\exceptions\\commonexceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\exceptions\\commonexceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\exceptions\\commonexceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\repositories\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\repositories\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\repositories\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\repositories\\implementations\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\repositories\\implementations\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\repositories\\implementations\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\repositories\\abstractions\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\repositories\\abstractions\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\repositories\\abstractions\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\services\\abstractions\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\services\\abstractions\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\services\\abstractions\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.bl\\services\\implementations\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.bl\\services\\implementations\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FC4AF4-0022-4B74-A214-2D781B516757}|Book.BL\\Book.BL.csproj|solutionrelative:book.bl\\services\\implementations\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.core\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.core\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|solutionrelative:book.core\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\repositories\\abstractions\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\repositories\\abstractions\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\repositories\\abstractions\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|solutionrelative:book.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.core\\entities\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.core\\entities\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|solutionrelative:book.core\\entities\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.core\\book.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.core\\book.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{63366AA6-BC22-40DC-B947-74B3F342DC68}|Book.Core\\Book.Core.csproj|solutionrelative:book.core\\book.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.api\\book.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.api\\book.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{12396758-66F0-429E-A3A4-194DDE6DBB8B}|Book.API\\Book.API.csproj|solutionrelative:book.api\\book.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\book.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\book.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\book.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\migrations\\20241217122749_addconfigurationtoauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\migrations\\20241217122749_addconfigurationtoauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\migrations\\20241217122749_addconfigurationtoauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\migrations\\20241217121154_addbookandauthortables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\migrations\\20241217121154_addbookandauthortables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\migrations\\20241217121154_addbookandauthortables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin shivaxanova\\source\\repos\\bookapiapp\\book.data\\migrations\\20241219110141_setbaseauditbletablefieldstonull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\migrations\\20241219110141_setbaseauditbletablefieldstonull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\migrations\\20241219110141_setbaseauditbletablefieldstonull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\migrations\\20241220114201_addappuserlastnamechanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\migrations\\20241220114201_addappuserlastnamechanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\migrations\\20241220113934_addappuserconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\migrations\\20241220113934_addappuserconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|c:\\users\\narmin.shivakhanova\\source\\repos\\bookapiapp\\book.data\\migrations\\20241220113732_addappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583713-B2F2-4B5D-BB7D-3EFB7D87827C}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\migrations\\20241220113732_addappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -182,7 +198,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -194,559 +210,611 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppuserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\AppUserProfiles\\AppuserProfile.cs",
-              "RelativeDocumentMoniker": "Book.BL\\Profiles\\AppUserProfiles\\AppuserProfile.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\AppUserProfiles\\AppuserProfile.cs",
-              "RelativeToolTip": "Book.BL\\Profiles\\AppUserProfiles\\AppuserProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:54:43.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\AuthService.cs",
-              "RelativeDocumentMoniker": "Book.BL\\Services\\Implementations\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\AuthService.cs",
-              "RelativeToolTip": "Book.BL\\Services\\Implementations\\AuthService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvxgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:51:49.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Book.BL\\Services\\Abstractions\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IAuthService.cs",
-              "RelativeToolTip": "Book.BL\\Services\\Abstractions\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:51:01.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppUserCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "RelativeDocumentMoniker": "Book.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "RelativeToolTip": "Book.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCEAAAA7AAAAAAAAAA==",
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\ExternalServices\\Implentations\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Book.BL\\ExternalServices\\Implentations\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\ExternalServices\\Implentations\\JwtTokenService.cs",
+              "RelativeToolTip": "Book.BL\\ExternalServices\\Implentations\\JwtTokenService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAEwCAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:41:02.039Z",
+              "WhenOpened": "2024-12-25T10:26:23.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AuthsController.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\AuthsController.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\AuthsController.cs",
               "RelativeDocumentMoniker": "Book.API\\Controllers\\AuthsController.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\AuthsController.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\AuthsController.cs",
               "RelativeToolTip": "Book.API\\Controllers\\AuthsController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "ViewState": "AQIAABoAAAAAAAAAAIAwwCQAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T11:40:12.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthorProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\AuthorProfiles\\AuthorProfile.cs",
-              "RelativeDocumentMoniker": "Book.BL\\Profiles\\AuthorProfiles\\AuthorProfile.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\AuthorProfiles\\AuthorProfile.cs",
-              "RelativeToolTip": "Book.BL\\Profiles\\AuthorProfiles\\AuthorProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T11:54:24.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\BookService.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\BookService.cs",
               "RelativeDocumentMoniker": "Book.BL\\Services\\Implementations\\BookService.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\BookService.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\BookService.cs",
               "RelativeToolTip": "Book.BL\\Services\\Implementations\\BookService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCsAAAAvAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T10:50:30.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Book.API\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Book.API\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:12:58.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConfigurationServices.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\ConfigurationServices.cs",
-              "RelativeDocumentMoniker": "Book.BL\\ConfigurationServices.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\ConfigurationServices.cs",
-              "RelativeToolTip": "Book.BL\\ConfigurationServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:20:29.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\Program.cs",
-              "RelativeDocumentMoniker": "Book.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\Program.cs",
-              "RelativeToolTip": "Book.API\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:08:25.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AuthorCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\AuthorDtos\\AuthorCreateDto.cs",
-              "RelativeDocumentMoniker": "Book.BL\\DTOs\\AuthorDtos\\AuthorCreateDto.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\AuthorDtos\\AuthorCreateDto.cs",
-              "RelativeToolTip": "Book.BL\\DTOs\\AuthorDtos\\AuthorCreateDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T11:51:12.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "Book.Core\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\AppUser.cs",
-              "RelativeToolTip": "Book.Core\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:25:51.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20241220114201_addAppUserLastNamechanged.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220114201_addAppUserLastNamechanged.cs",
-              "RelativeDocumentMoniker": "Book.Data\\Migrations\\20241220114201_addAppUserLastNamechanged.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220114201_addAppUserLastNamechanged.cs",
-              "RelativeToolTip": "Book.Data\\Migrations\\20241220114201_addAppUserLastNamechanged.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:42:01.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppUserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\Configurations\\AppUserConfiguration.cs",
-              "RelativeDocumentMoniker": "Book.Data\\DAL\\Configurations\\AppUserConfiguration.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\Configurations\\AppUserConfiguration.cs",
-              "RelativeToolTip": "Book.Data\\DAL\\Configurations\\AppUserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:37:55.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Book.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "RelativeToolTip": "Book.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T10:11:17.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20241220113934_addAppUserConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220113934_addAppUserConfigurations.cs",
-              "RelativeDocumentMoniker": "Book.Data\\Migrations\\20241220113934_addAppUserConfigurations.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220113934_addAppUserConfigurations.cs",
-              "RelativeToolTip": "Book.Data\\Migrations\\20241220113934_addAppUserConfigurations.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:39:35.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20241220113732_addAppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220113732_addAppUser.cs",
-              "RelativeDocumentMoniker": "Book.Data\\Migrations\\20241220113732_addAppUser.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220113732_addAppUser.cs",
-              "RelativeToolTip": "Book.Data\\Migrations\\20241220113732_addAppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:37:33.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthorConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\Configurations\\AuthorConfiguration.cs",
-              "RelativeDocumentMoniker": "Book.Data\\DAL\\Configurations\\AuthorConfiguration.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\Configurations\\AuthorConfiguration.cs",
-              "RelativeToolTip": "Book.Data\\DAL\\Configurations\\AuthorConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:17:39.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Book.Data\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "Book.Data\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T10:11:28.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Book.Data\\Repositories\\Implementations\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeToolTip": "Book.Data\\Repositories\\Implementations\\GenericRepository.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAqwDAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T10:18:12.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AuthorsController.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "Book.API\\Controllers\\AuthorsController.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "Book.API\\Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T11:50:00.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "EntityNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
-              "RelativeDocumentMoniker": "Book.BL\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
-              "RelativeToolTip": "Book.BL\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T11:54:34.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IBookService.cs",
-              "RelativeDocumentMoniker": "Book.BL\\Services\\Abstractions\\IBookService.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IBookService.cs",
-              "RelativeToolTip": "Book.BL\\Services\\Abstractions\\IBookService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswBEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T10:49:57.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\appsettings.json",
               "RelativeDocumentMoniker": "Book.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\appsettings.json",
               "RelativeToolTip": "Book.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-17T12:05:43.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Program.cs",
+              "RelativeDocumentMoniker": "Book.API\\Program.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Program.cs",
+              "RelativeToolTip": "Book.API\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAIAwwDoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:08:25.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigurationServices.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\ConfigurationServices.cs",
+              "RelativeDocumentMoniker": "Book.BL\\ConfigurationServices.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\ConfigurationServices.cs",
+              "RelativeToolTip": "Book.BL\\ConfigurationServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:20:29.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Book.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Book.API\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:12:58.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Book.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "Book.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:51:01.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Book.API\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Book.API\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:50:00.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Book.BL\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Book.BL\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:51:49.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.API.http",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Book.API.http",
+              "RelativeDocumentMoniker": "Book.API\\Book.API.http",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Book.API.http",
+              "RelativeToolTip": "Book.API\\Book.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-25T11:11:01.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
+              "RelativeDocumentMoniker": "Book.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
+              "RelativeToolTip": "Book.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAzwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:41:02.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\ExternalServices\\Interfaces\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Book.BL\\ExternalServices\\Interfaces\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\ExternalServices\\Interfaces\\IJwtTokenService.cs",
+              "RelativeToolTip": "Book.BL\\ExternalServices\\Interfaces\\IJwtTokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:23:36.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\AppUserDtos\\AppUserLoginDto.cs",
+              "RelativeDocumentMoniker": "Book.BL\\DTOs\\AppUserDtos\\AppUserLoginDto.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\AppUserDtos\\AppUserLoginDto.cs",
+              "RelativeToolTip": "Book.BL\\DTOs\\AppUserDtos\\AppUserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:27:27.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\AuthorProfiles\\AuthorProfile.cs",
+              "RelativeDocumentMoniker": "Book.BL\\Profiles\\AuthorProfiles\\AuthorProfile.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\AuthorProfiles\\AuthorProfile.cs",
+              "RelativeToolTip": "Book.BL\\Profiles\\AuthorProfiles\\AuthorProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:54:24.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppuserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\AppUserProfiles\\AppuserProfile.cs",
+              "RelativeDocumentMoniker": "Book.BL\\Profiles\\AppUserProfiles\\AppuserProfile.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\AppUserProfiles\\AppuserProfile.cs",
+              "RelativeToolTip": "Book.BL\\Profiles\\AppUserProfiles\\AppuserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:54:43.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthorCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\AuthorDtos\\AuthorCreateDto.cs",
+              "RelativeDocumentMoniker": "Book.BL\\DTOs\\AuthorDtos\\AuthorCreateDto.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\AuthorDtos\\AuthorCreateDto.cs",
+              "RelativeToolTip": "Book.BL\\DTOs\\AuthorDtos\\AuthorCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:51:12.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Book.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Book.Core\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:25:51.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20241220114201_addAppUserLastNamechanged.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220114201_addAppUserLastNamechanged.cs",
+              "RelativeDocumentMoniker": "Book.Data\\Migrations\\20241220114201_addAppUserLastNamechanged.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220114201_addAppUserLastNamechanged.cs",
+              "RelativeToolTip": "Book.Data\\Migrations\\20241220114201_addAppUserLastNamechanged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:42:01.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\Configurations\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "Book.Data\\DAL\\Configurations\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\Configurations\\AppUserConfiguration.cs",
+              "RelativeToolTip": "Book.Data\\DAL\\Configurations\\AppUserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:37:55.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Book.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "Book.Data\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:11:17.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20241220113934_addAppUserConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220113934_addAppUserConfigurations.cs",
+              "RelativeDocumentMoniker": "Book.Data\\Migrations\\20241220113934_addAppUserConfigurations.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220113934_addAppUserConfigurations.cs",
+              "RelativeToolTip": "Book.Data\\Migrations\\20241220113934_addAppUserConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:39:35.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20241220113732_addAppUser.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220113732_addAppUser.cs",
+              "RelativeDocumentMoniker": "Book.Data\\Migrations\\20241220113732_addAppUser.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241220113732_addAppUser.cs",
+              "RelativeToolTip": "Book.Data\\Migrations\\20241220113732_addAppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:37:33.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\Configurations\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "Book.Data\\DAL\\Configurations\\AuthorConfiguration.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\Configurations\\AuthorConfiguration.cs",
+              "RelativeToolTip": "Book.Data\\DAL\\Configurations\\AuthorConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:17:39.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Book.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Book.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:11:28.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Book.Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Book.Data\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:18:12.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Book.BL\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Book.BL\\Exceptions\\CommonExceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:54:34.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IBookService.cs",
+              "RelativeDocumentMoniker": "Book.BL\\Services\\Abstractions\\IBookService.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IBookService.cs",
+              "RelativeToolTip": "Book.BL\\Services\\Abstractions\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:49:57.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Book.BL.csproj",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Book.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Book.BL.csproj",
               "RelativeDocumentMoniker": "Book.BL\\Book.BL.csproj",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Book.BL.csproj",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Book.BL.csproj",
               "RelativeToolTip": "Book.BL\\Book.BL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-17T12:02:00.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\AuthorRepository.cs",
               "RelativeDocumentMoniker": "Book.Data\\Repositories\\Implementations\\AuthorRepository.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\AuthorRepository.cs",
               "RelativeToolTip": "Book.Data\\Repositories\\Implementations\\AuthorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T10:46:40.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "BookProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\BookProfiles\\BookProfile.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\BookProfiles\\BookProfile.cs",
               "RelativeDocumentMoniker": "Book.BL\\Profiles\\BookProfiles\\BookProfile.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\BookProfiles\\BookProfile.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Profiles\\BookProfiles\\BookProfile.cs",
               "RelativeToolTip": "Book.BL\\Profiles\\BookProfiles\\BookProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T10:47:22.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "BookCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\BookDtos\\BookCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\BookDtos\\BookCreateDto.cs",
               "RelativeDocumentMoniker": "Book.BL\\DTOs\\BookDtos\\BookCreateDto.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\BookDtos\\BookCreateDto.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\DTOs\\BookDtos\\BookCreateDto.cs",
               "RelativeToolTip": "Book.BL\\DTOs\\BookDtos\\BookCreateDto.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwCQAAAAFAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T11:48:53.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\BookRepository.cs",
               "RelativeDocumentMoniker": "Book.Data\\Repositories\\Implementations\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Implementations\\BookRepository.cs",
               "RelativeToolTip": "Book.Data\\Repositories\\Implementations\\BookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T10:41:55.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Book.Data\\Repositories\\Abstractions\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IBookRepository.cs",
               "RelativeToolTip": "Book.Data\\Repositories\\Abstractions\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T10:36:06.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "Book.Core\\Entities\\Book.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Book.cs",
               "RelativeToolTip": "Book.Core\\Entities\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T11:52:07.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IAuthorService.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IAuthorService.cs",
               "RelativeDocumentMoniker": "Book.BL\\Services\\Abstractions\\IAuthorService.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Abstractions\\IAuthorService.cs",
               "RelativeToolTip": "Book.BL\\Services\\Abstractions\\IAuthorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T10:50:21.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "AuthorService.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\AuthorService.cs",
               "RelativeDocumentMoniker": "Book.BL\\Services\\Implementations\\AuthorService.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.BL\\Services\\Implementations\\AuthorService.cs",
               "RelativeToolTip": "Book.BL\\Services\\Implementations\\AuthorService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T10:50:43.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Author.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Author.cs",
               "RelativeDocumentMoniker": "Book.Core\\Entities\\Author.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Author.cs",
               "RelativeToolTip": "Book.Core\\Entities\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T11:54:05.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "IAuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IAuthorRepository.cs",
               "RelativeDocumentMoniker": "Book.Data\\Repositories\\Abstractions\\IAuthorRepository.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Repositories\\Abstractions\\IAuthorRepository.cs",
               "RelativeToolTip": "Book.Data\\Repositories\\Abstractions\\IAuthorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T10:45:57.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "20241219110141_setBaseAuditbleTablefieldstonull.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241219110141_setBaseAuditbleTablefieldstonull.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241219110141_setBaseAuditbleTablefieldstonull.cs",
               "RelativeDocumentMoniker": "Book.Data\\Migrations\\20241219110141_setBaseAuditbleTablefieldstonull.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241219110141_setBaseAuditbleTablefieldstonull.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241219110141_setBaseAuditbleTablefieldstonull.cs",
               "RelativeToolTip": "Book.Data\\Migrations\\20241219110141_setBaseAuditbleTablefieldstonull.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T11:01:41.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "BaseAuditableEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Base\\BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Base\\BaseAuditableEntity.cs",
               "RelativeDocumentMoniker": "Book.Core\\Entities\\Base\\BaseAuditableEntity.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Base\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Base\\BaseAuditableEntity.cs",
               "RelativeToolTip": "Book.Core\\Entities\\Base\\BaseAuditableEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T11:49:57.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Book.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj",
               "RelativeDocumentMoniker": "Book.Core\\Book.Core.csproj",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Book.Core.csproj",
               "RelativeToolTip": "Book.Core\\Book.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-17T11:49:01.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Base\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Book.Core\\Entities\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Core\\Entities\\Base\\BaseEntity.cs",
               "RelativeToolTip": "Book.Core\\Entities\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAArAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T11:49:40.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Book.API.csproj",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\Book.API.csproj",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Book.API.csproj",
               "RelativeDocumentMoniker": "Book.API\\Book.API.csproj",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.API\\Book.API.csproj",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.API\\Book.API.csproj",
               "RelativeToolTip": "Book.API\\Book.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-17T12:01:05.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "20241217121154_addBookandAuthorTables.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241217121154_addBookandAuthorTables.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241217121154_addBookandAuthorTables.cs",
               "RelativeDocumentMoniker": "Book.Data\\Migrations\\20241217121154_addBookandAuthorTables.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241217121154_addBookandAuthorTables.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241217121154_addBookandAuthorTables.cs",
               "RelativeToolTip": "Book.Data\\Migrations\\20241217121154_addBookandAuthorTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T12:11:54.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "20241217122749_addConfigurationToAuthor.cs",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241217122749_addConfigurationToAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241217122749_addConfigurationToAuthor.cs",
               "RelativeDocumentMoniker": "Book.Data\\Migrations\\20241217122749_addConfigurationToAuthor.cs",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241217122749_addConfigurationToAuthor.cs",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Migrations\\20241217122749_addConfigurationToAuthor.cs",
               "RelativeToolTip": "Book.Data\\Migrations\\20241217122749_addConfigurationToAuthor.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAgAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T12:27:49.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Book.Data.csproj",
-              "DocumentMoniker": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Book.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Book.Data.csproj",
               "RelativeDocumentMoniker": "Book.Data\\Book.Data.csproj",
-              "ToolTip": "C:\\Users\\Narmin Shivaxanova\\source\\repos\\BookApiApp\\Book.Data\\Book.Data.csproj",
+              "ToolTip": "C:\\Users\\narmin.shivakhanova\\source\\repos\\BookApiApp\\Book.Data\\Book.Data.csproj",
               "RelativeToolTip": "Book.Data\\Book.Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-17T11:57:27.598Z",
               "EditorCaption": ""
