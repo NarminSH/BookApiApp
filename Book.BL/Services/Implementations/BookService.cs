@@ -65,6 +65,16 @@ namespace Book.BL.Services.Implementations
 
         }
 
-        
+        public async Task<bool> EditAsync(int id, BookEditDto bookEditDto)
+        {
+            var bookEntity = await GetByIdAsync(id);
+            _mapper.Map(bookEditDto, bookEntity);
+            
+            bookEntity.UpdatedAt = DateTime.UtcNow.AddHours(4);
+           
+            _bookRepo.Update(bookEntity);
+            await _bookRepo.SaveChangesAsync();
+            return true;
+        }
     }
 }

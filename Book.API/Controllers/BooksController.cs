@@ -21,7 +21,7 @@ namespace Book.API.Controllers
             _bookService = book;
         }
         [HttpGet]
-        [Authorize]
+       
         public async Task<ICollection<Entities.Book>> GetAll()
         {
             return await _bookService.GetAllAsync();
@@ -73,6 +73,23 @@ namespace Book.API.Controllers
             try
             {
                 return StatusCode(StatusCodes.Status200OK, await _bookService.UpdateAsync(id, bookUpdateDto));
+            }
+            catch (Exception e)
+            {
+
+                return StatusCode(StatusCodes.Status400BadRequest, e.Message);
+            }
+        }
+        [HttpPatch("updatebook/{id}")]
+        public async Task<IActionResult> Edit(int id, BookEditDto bookEditDto)
+        {
+            if (!ModelState.IsValid)
+            {
+                return StatusCode(StatusCodes.Status400BadRequest, ModelState);
+            }
+            try
+            {
+                return StatusCode(StatusCodes.Status200OK, await _bookService.EditAsync(id, bookEditDto));
             }
             catch (Exception e)
             {
