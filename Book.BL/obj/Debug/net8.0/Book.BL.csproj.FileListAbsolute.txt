@@ -15,3 +15,4 @@ C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.BL\obj\Debug\net8.0\Boo
 C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.BL\obj\Debug\net8.0\refint\Book.BL.dll
 C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.BL\obj\Debug\net8.0\Book.BL.pdb
 C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.BL\obj\Debug\net8.0\ref\Book.BL.dll
+C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.BL\obj\Debug\net8.0\Book.BL.sourcelink.json

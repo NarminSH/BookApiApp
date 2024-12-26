@@ -33,5 +33,23 @@ namespace Book.API.Controllers
                 return StatusCode(StatusCodes.Status400BadRequest, e.Message);
             }
         }
+        [HttpPost("login")]
+        public async Task<IActionResult> Login(AppUserLoginDto entityDto)
+        {
+            if (!ModelState.IsValid)
+            {
+                return StatusCode(StatusCodes.Status400BadRequest, ModelState);
+            }
+            try
+            {
+                return StatusCode(StatusCodes.Status201Created, await _authService.LoginAsync(entityDto));
+            }
+            catch (Exception e)
+            {
+
+                return StatusCode(StatusCodes.Status400BadRequest, e.Message);
+            }
+
+        }
     }
 }
