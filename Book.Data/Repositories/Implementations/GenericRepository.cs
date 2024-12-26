@@ -43,7 +43,6 @@ namespace Book.Data.Repositories.Implementations
         public void Update(Tentity entity)
         {
             _context.Entry(entity).State = EntityState.Modified;
-            
         }
         public void SoftDelete(Tentity entity)
         {

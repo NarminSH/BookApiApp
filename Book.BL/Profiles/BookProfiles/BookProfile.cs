@@ -12,11 +12,13 @@ namespace Book.BL.Profiles.BookProfiles
     {
         public BookProfile()
         {
-            CreateMap<BookCreateDto, Core.Entities.Book>();
-            CreateMap<BookCreateDto, Core.Entities.Book>().ReverseMap();
-            //CreateMap<BookUpdateDto, Core.Entities.Book>();
-            //CreateMap<BookUpdateDto, Core.Entities.Book>().ReverseMap();
             
+            CreateMap<BookCreateDto, Core.Entities.Book>().ReverseMap();
+            CreateMap<BookEditDto, Core.Entities.Book>().ReverseMap().
+            ForAllMembers(opts => opts.Condition((src, dest, srcMember) => srcMember != null));
+            
+
+
         }
     }
 }

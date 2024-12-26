@@ -16,5 +16,6 @@ namespace Book.BL.Services.Abstractions
         Task<Entities.Book> GetByIdAsync(int id);
         Task<bool> SoftDeleteAsync(int id);
         Task<bool> UpdateAsync(int id, BookCreateDto entityDto);
+        Task<bool> EditAsync(int id, BookEditDto entityDto);
     }
 }

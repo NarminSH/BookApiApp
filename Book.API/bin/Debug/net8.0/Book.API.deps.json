@@ -9,6 +9,7 @@
       "Book.API/1.0.0": {
         "dependencies": {
           "Book.BL": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.11",
           "Microsoft.EntityFrameworkCore.Design": "8.0.11",
           "Swashbuckle.AspNetCore": "6.4.0"
         },

@@ -9,6 +9,7 @@ C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.Data\obj\Debug\net8.0\B
 C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.Data\obj\Debug\net8.0\Book.Data.AssemblyInfoInputs.cache
 C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.Data\obj\Debug\net8.0\Book.Data.AssemblyInfo.cs
 C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.Data\obj\Debug\net8.0\Book.Data.csproj.CoreCompileInputs.cache
+C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.Data\obj\Debug\net8.0\Book.Data.sourcelink.json
 C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.Data\obj\Debug\net8.0\Book.Data.csproj.Up2Date
 C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.Data\obj\Debug\net8.0\Book.Data.dll
 C:\Users\Narmin Shivaxanova\source\repos\BookApiApp\Book.Data\obj\Debug\net8.0\refint\Book.Data.dll

@@ -34,7 +34,7 @@ namespace Book.API.Controllers
             }
         }
         [HttpPost("login")]
-        public async Task<IActionResult> Login(AppUserLoginDto entityDto)
+        public async Task<IActionResult> Login(AppUserLoginDto appUserLoginDto)
         {
             if (!ModelState.IsValid)
             {
@@ -42,14 +42,13 @@ namespace Book.API.Controllers
             }
             try
             {
-                return StatusCode(StatusCodes.Status201Created, await _authService.LoginAsync(entityDto));
+                return StatusCode(StatusCodes.Status200OK, await _authService.LoginAsync(appUserLoginDto));
             }
             catch (Exception e)
             {
 
                 return StatusCode(StatusCodes.Status400BadRequest, e.Message);
             }
-
         }
     }
 }
